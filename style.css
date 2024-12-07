@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style: none;
+}
+.Nav{
+    height: 10vh;
+    background-color: brown;
+    box-shadow: 2px 2px 2px;
+}
+.nav-menu{
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px;
+}
+
+.nav-menu li{
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+}
